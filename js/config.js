@@ -21,6 +21,15 @@ var respecConfig =
       companyURL: "https://www.geonovum.nl/"
     }
   ],
+  localBiblio: {
+    GerardWolbers: {
+      title: "Gerard Wolbers",
+      href: "Geonovum",
+      authors: [
+        "https://www.geonovum.nl"
+      ],
+    }
+  },
   shortName: "IMOW",
   format: "markdown",
   github: "https://github.com/Geonovum/ow-IMOW/",
