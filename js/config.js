@@ -12,11 +12,6 @@ var respecConfig =
       name: "Richard de Graaf",
       company: "Geonovum",
       companyURL: "https://www.geonovum.nl/"
-    },
-    {
-      name: "Nienke Jansen",
-      company: "Geonovum",
-      companyURL: "https://www.geonovum.nl/"
     }
   ],
   editors: [
